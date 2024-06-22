@@ -1,0 +1,2 @@
+# SupermarketCashierManagementSystem
+ 基于springboot的超市收银管理系统
